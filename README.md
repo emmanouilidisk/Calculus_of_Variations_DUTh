@@ -1,2 +1,2 @@
-# Calculus_of_Variations_DUTh
-Logismos Metavolwn DUTh
+# Calculus of Variations
+Assignments in Calculus and Variations course at ECE DUTh
